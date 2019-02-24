@@ -9,4 +9,6 @@ const objectLength = (object) => Object.keys(object).length;
 
 // module export
 
-module.export = objectLength;
+module.exports = {
+    objectLength: objectLength
+};

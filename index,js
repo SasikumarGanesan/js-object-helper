@@ -1,5 +1,0 @@
-const object = require('./object');
-
-// module export
-
-module.export = object;
