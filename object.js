@@ -10,5 +10,5 @@ const objectLength = (object) => Object.keys(object).length;
 // module export
 
 module.exports = {
-    objectLength: objectLength
+    length: objectLength
 };
